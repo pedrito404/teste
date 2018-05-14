@@ -1,3 +1,2 @@
 uma linha
 segunda linha
-terceira linha
